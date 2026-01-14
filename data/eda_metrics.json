@@ -1,0 +1,14 @@
+{
+  "original_rows": 100000,
+  "filtered_rows": 1680,
+  "final_rows": 191,
+  "product_counts": {
+    "Credit card": 191
+  },
+  "word_stats": {
+    "min": 12,
+    "max": 1010,
+    "mean": 206.81151832460733,
+    "median": 168.0
+  }
+}
