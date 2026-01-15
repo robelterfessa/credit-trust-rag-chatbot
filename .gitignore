@@ -1,0 +1,48 @@
+# Data files (too large)
+data/complaints.csv
+data/complaints.csv.zip
+data/raw/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large files
+*.bin
+*.pkl
+*.h5
+*.pt
+# Vector stores (large binary files)
+vector_store/chroma_db*/
+vector_store/*.bin
+vector_store/*.pkl
+
+# Virtual environment
+venv/
+
+# Large data files
+data/complaints.csv
+data/complaints.csv.zip

@@ -1,0 +1,12 @@
+{
+  "total_complaints": 191,
+  "total_chunks_created": 567,
+  "embedding_model": "MiniLM",
+  "embedding_dimension": 384,
+  "chunk_size": 500,
+  "chunk_overlap": 50,
+  "vector_database": "ChromaDB",
+  "collection_name": "complaint_chunks",
+  "storage_path": "vector_store/chroma_db_final",
+  "note": "Used entire dataset (191 complaints)"
+}
